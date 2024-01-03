@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Transmit Sensor</string>
+    <string name="initial_vector_vals">x: N/A \ny: N/A \nz: N/A</string>
+    <string name="loading">Loading...</string>
+    <string name="port">port</string>
+    <string name="rotation_vector">Rotaion vector:</string>
+    <string name="gps_vals">Lon: N/A\nLat:N/A</string>
+</resources>
